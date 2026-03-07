@@ -1,8 +1,7 @@
 ---
 name: check-boundary-conditions
 description: Evaluate how the logic handles extreme limits. Use when reviewing code for robustness, debugging edge-case failures, or writing tests for critical functions. Activate when a user says "check edge cases", "test boundaries", "what about empty input", "handle extreme values", "does this work with zero", or "what if the list is empty".
-categories:
--debugging
+category: "Debugging"
 ---
 
 # Check Boundary Conditions

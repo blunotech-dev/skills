@@ -1,8 +1,7 @@
 ---
 name: anti-purple-ui
 description: Strips out default AI tech-aesthetic color palettes and forces a strict monochrome scale with exactly one high-contrast accent color. Use this skill whenever the user explicitly wants to avoid "AI purple" or generic tech gradients, asks for a monochrome or single-accent UI, says things like "no purple", "no gradients", "minimal color", "black and white with one color", "brutalist palette", "stark contrast", or "anti-AI aesthetic". Also trigger when the user says the UI looks "too AI", "too generic", "too techy", or "like every other SaaS app". Apply this skill in combination with the frontend-design skill whenever both are relevant — this skill governs the color system, while frontend-design governs layout and typography.
-categories: 
--design
+category: "Design"
 ---
 
 # Anti-Purple UI

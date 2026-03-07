@@ -1,6 +1,7 @@
 ---
 name: hypothesize-before-fix
 description: State the suspected root cause before writing any code. Use when fixing bugs, resolving errors, or troubleshooting failing tests. Activate when a user says "fix this bug", "why is this broken", "debug this error", "this test is failing", or "something is wrong with". Prevents premature code changes by enforcing hypothesis-driven debugging.
+category: "Debugging"
 ---
 
 # Hypothesize Before Fix
