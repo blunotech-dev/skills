@@ -1,6 +1,7 @@
 ---
 name: validate-inputs-first
 description: Ensure the data entering the function is the expected shape. Use when debugging unexpected behavior, null reference errors, type errors, or data-related crashes. Activate when a user says "validate inputs", "check the data", "what's being passed in", "wrong data type", "unexpected null", or "the function receives wrong arguments".
+category: "Debugging"
 ---
 
 # Validate Inputs First

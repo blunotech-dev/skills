@@ -1,8 +1,7 @@
 ---
 name: harmonize-whitespace
 description: "Snaps all padding, margins, gaps, and spacing values to a strict 4pt/8pt grid system. Use this skill whenever the user wants consistent spacing, mentions 'spacing feels off', 'padding is inconsistent', 'align the whitespace', 'use a spacing scale', '8pt grid', '4pt grid', or 'everything feels uneven'. Also trigger when the user says the UI looks 'cramped', 'loose', 'unbalanced', or 'misaligned' — these are often spacing problems. Apply in combination with frontend-design and anti-purple-ui when all three are relevant; this skill governs the spacing system, the others govern color and aesthetics."
-categories:
--design
+category: "Design"
 ---
 
 # Harmonize Whitespace
