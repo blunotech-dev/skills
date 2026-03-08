@@ -1,6 +1,5 @@
 ---
 name: typographic-hierarchy
-
 description: Adjusts font sizes, weights, line-heights, spacing, and color contrast to create distinct, intentional visual hierarchy in any UI or document. Use this skill whenever the user mentions typography, font sizing, heading contrast, text hierarchy, readability, type scale, or visual weight — even if they don't use the word "hierarchy" explicitly. Trigger when the user says things like "make the headings stand out more", "improve readability", "the text feels flat", "adjust font sizes", "text doesn't look structured", "tune the type", or "create a clear visual flow through the text". Also use when reviewing or generating any design artifact where text structure matters: landing pages, dashboards, editorial layouts, design systems, README files, or component libraries.
 category: "Design"
 ---
